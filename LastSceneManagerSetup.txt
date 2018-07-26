@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/rebelCash_Matt.unity
+  isLoaded: 1
+  isActive: 1
